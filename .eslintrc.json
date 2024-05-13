@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended", "next"],
+  "globals": {
+    "globalThis": true
+  },
+  "rules": { "no-unused-vars": "off" }
+}
